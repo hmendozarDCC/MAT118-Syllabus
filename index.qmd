@@ -5,9 +5,9 @@ author: "Instructor: Henry Mendoza Rivera"
 ---
 
 ## Course Information
-* [cite_start]**Prerequisites:** Placement level 2, ENG 101 placement, or HS GPA of 3.0 (83)[cite: 6].
-* [cite_start]**Course Description:** Basic statistical procedures including descriptive statistics, hypothesis testing, confidence intervals, and regression using simulation and theory-based approaches[cite: 10, 11].
-* [cite_start]**Learning Outcome:** Students will use quantitative reasoning to work with graphical and numerical models[cite: 14].
+* **Prerequisites:** Placement level 2, ENG 101 placement, or HS GPA of 3.0 (83)[cite: 6].
+* **Course Description:** Basic statistical procedures including descriptive statistics, hypothesis testing, confidence intervals, and regression using simulation and theory-based approaches[cite: 10, 11].
+* **Learning Outcome:** Students will use quantitative reasoning to work with graphical and numerical models[cite: 14].
 
 ## Class Meeting Times
 | Section | Days | Time | Location |
@@ -19,14 +19,14 @@ author: "Instructor: Henry Mendoza Rivera"
 [cite_start]: {tbl-colwidths="[15,30,30,25]"} [cite: 8]
 
 ## Instructor Contact & Office Hours
-* [cite_start]**Office:** Washington 114 [cite: 25]
-* [cite_start]**Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu) (Best way to contact)[cite: 25].
-* [cite_start]**Office Hours:** Appointments can be made via Brightspace[cite: 30]. [cite_start]Drop-ins are welcome at the Math & Science Center (Washington 126) during scheduled times[cite: 32, 33].
+* **Office:** Washington 114 [cite: 25]
+* **Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu) (Best way to contact)[cite: 25].
+* **Office Hours:** Appointments can be made via Brightspace[cite: 30].Drop-ins are welcome at the Math & Science Center (Washington 126) during scheduled times[cite: 32, 33].
 
 ## Required Materials
-* **Textbook:** This is an **OER course**. [cite_start]Materials are free for electronic use via Brightspace[cite: 52].
-* **Technology:** Microsoft Excel is required. [cite_start]**A Chromebook is NOT sufficient** as it cannot support the necessary Excel features[cite: 56, 57].
-* [cite_start]**Brightspace:** All readings, videos, and assignments are hosted at [mylearning.suny.edu](https://mylearning.suny.edu/d2l/home)[cite: 49, 50].
+* **Textbook:** This is an **OER course**.Materials are free for electronic use via Brightspace[cite: 52].
+* **Technology:** Microsoft Excel is required.**A Chromebook is NOT sufficient** as it cannot support the necessary Excel features[cite: 56, 57].
+* **Brightspace:** All readings, videos, and assignments are hosted at [mylearning.suny.edu](https://mylearning.suny.edu/d2l/home)[cite: 49, 50].
 
 ## Grading Policy
 | Assignment | Percentage |
@@ -41,12 +41,12 @@ author: "Instructor: Henry Mendoza Rivera"
 
 ::: {.callout-important}
 ## Late Work Policy
-[cite_start]Computer and Written Homework are **NEVER** accepted late for any reason[cite: 97, 105]. [cite_start]To account for life circumstances, the lowest grades for several categories (homework, quizzes) are dropped at the end of the semester[cite: 98, 102, 106].
+[cite_start]Computer and Written Homework are **NEVER** accepted late for any reason[cite: 97, 105].To account for life circumstances, the lowest grades for several categories (homework, quizzes) are dropped at the end of the semester[cite: 98, 102, 106].
 :::
 
 ## Academic Policies
 ### Academic Integrity
-[cite_start]Academic dishonesty (cheating, plagiarism, unauthorized AI use) will result in a 0 for the assignment and will be reported to the college[cite: 131, 132, 227]. [cite_start]A second offense results in a failing grade for the course[cite: 228].
+[cite_start]Academic dishonesty (cheating, plagiarism, unauthorized AI use) will result in a 0 for the assignment and will be reported to the college[cite: 131, 132, 227].A second offense results in a failing grade for the course[cite: 228].
 
 ### AI Policy
 [cite_start]Students must not use AI to generate material for any assignment unless explicitly instructed to do so[cite: 251].
@@ -60,7 +60,7 @@ author: "Instructor: Henry Mendoza Rivera"
 ## Student Support & Wellbeing
 
 ### Starfish
-Starfish is used to connect you to faculty and support services. [cite_start]Please check your DCC email and log into Starfish daily for feedback[cite: 233, 234, 236].
+Starfish is used to connect you to faculty and support services.Please check your DCC email and log into Starfish daily for feedback[cite: 233, 234, 236].
 
 ### Health and Wellbeing
-[cite_start]The DCC Counseling Center provides short-term individual and group counseling to help you achieve your goals[cite: 242]. [cite_start]If you or someone you know is in crisis, call or text the **988 Suicide & Crisis Lifeline** at **988**[cite: 245].
+[cite_start]The DCC Counseling Center provides short-term individual and group counseling to help you achieve your goals[cite: 242].If you or someone you know is in crisis, call or text the **988 Suicide & Crisis Lifeline** at **988**[cite: 245].
