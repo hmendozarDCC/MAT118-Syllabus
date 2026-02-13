@@ -1,0 +1,58 @@
+---
+title: "MAT 118: Elementary Statistics (OER)"
+subtitle: "Spring 2026 | Dutchess Community College"
+author: "Instructor: Henry Mendoza Rivera"
+---
+
+## Course Information
+* [cite_start]**Prerequisites:** Placement level 2, ENG 101 placement, or HS GPA of 3.0 (83)[cite: 6].
+* [cite_start]**Course Description:** Basic statistical procedures including descriptive statistics, hypothesis testing, confidence intervals, and regression using simulation and theory-based approaches[cite: 10, 11].
+* [cite_start]**Learning Outcome:** Students will use quantitative reasoning to work with graphical and numerical models[cite: 14].
+
+## Class Meeting Times
+| Section | Days | Time | Location |
+|---------|------|------|----------|
+| 010 | Mon/Wed | 11:00 a.m. – 12:15 p.m. | Hudson Hall 506 |
+| 020 | Mon/Wed | 9:00 a.m. – 10:15 a.m. | Washington 248 |
+| 030 | Mon/Wed | 12:30 p.m. – 1:45 p.m. | Hudson Hall 226 |
+| 110 | Tue/Thu | 2:00 p.m. – 3:15 p.m. | Hudson Hall 506 |
+[cite_start]: {tbl-colwidths="[15,30,30,25]"} [cite: 8]
+
+## Instructor Contact & Office Hours
+* [cite_start]**Office:** Washington 114 [cite: 25]
+* [cite_start]**Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu) (Best way to contact)[cite: 25].
+* [cite_start]**Office Hours:** Appointments can be made via Brightspace[cite: 30]. [cite_start]Drop-ins are welcome at the Math & Science Center (Washington 126) during scheduled times[cite: 32, 33].
+
+## Required Materials
+* **Textbook:** This is an **OER course**. [cite_start]Materials are free for electronic use via Brightspace[cite: 52].
+* **Technology:** Microsoft Excel is required. [cite_start]**A Chromebook is NOT sufficient** as it cannot support the necessary Excel features[cite: 56, 57].
+* [cite_start]**Brightspace:** All readings, videos, and assignments are hosted at [mylearning.suny.edu](https://mylearning.suny.edu/d2l/home)[cite: 49, 50].
+
+## Grading Policy
+| Assignment | Percentage |
+|------------|------------|
+| Exams (3 Units) | 45% (15% each) |
+| Cumulative Final Exam | 15% |
+| Computer Homework | 10% |
+| Written Homework | 8% |
+| Quizzes (In-class & Computer) | 13% |
+| Activities & Exit Tickets | 9% |
+[cite_start][cite: 63]
+
+::: {.callout-important}
+## Late Work Policy
+[cite_start]Computer and Written Homework are **NEVER** accepted late for any reason[cite: 97, 105]. [cite_start]To account for life circumstances, the lowest grades for several categories (homework, quizzes) are dropped at the end of the semester[cite: 98, 102, 106].
+:::
+
+## Academic Policies
+### Academic Integrity
+[cite_start]Academic dishonesty (cheating, plagiarism, unauthorized AI use) will result in a 0 for the assignment and will be reported to the college[cite: 131, 132, 227]. [cite_start]A second offense results in a failing grade for the course[cite: 228].
+
+### AI Policy
+[cite_start]Students must not use AI to generate material for any assignment unless explicitly instructed to do so[cite: 251].
+
+### Academic Accommodations
+[cite_start]Students with documented disabilities must register with the **Office of Accommodative Services (OAS)** in Orcutt Student Services Building, Room 103[cite: 189, 193].
+
+---
+[cite_start]*For the full tentative schedule and exam dates, please refer to the calendar posted on Brightspace.* [cite: 185]

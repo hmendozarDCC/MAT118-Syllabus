@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MAT 118: Elementary Statistics"
+  description: "Spring 2026 Course Syllabus"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - icon: file-pdf
+        href: Syllabus_Math_118-20-SP2026.pdf
+        text: "Download PDF"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Syllabus Sections"
+    number-sections: false
+  pdf:
+    documentclass: scrartcl
+    papersize: letter
+    geometry:
+      - top=30mm
+      - left=20mm
