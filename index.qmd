@@ -13,13 +13,14 @@ Placement level 2 (see DCC math placement table), OR ENG101 placement level or h
 ## Course Learning Outcomes
 Students who successfully complete the course will be able to:
 
-* Calculate and use descriptive statistics (center, variation, outliers).
-* Understand probability and interpret p-values.
-* Use Central Limit Theorem and simulation for inferences.
-* Construct/interpret confidence intervals.
-* Use hypothesis testing to test claims.
-* Use technology for statistical simulations.
-* Perform correlation and regression analysis.
+1. Calculate and use descriptive statistics to analyze a data set (measures of center, measures of variation, distribution shapes, outliers).
+2. Understand probability as a long-run relative frequency and interpret a p-value in terms of probability.
+3. Use simulation and theory-based approaches like the Central Limit Theorem to draw inferences and reach conclusions.
+4. Construct and interpret confidence intervals for a population mean or proportion.
+5. Use hypothesis testing to test a claim and interpret results about a population mean or proportion.
+6. Use technology to conduct simulations and generate values used in statistical inferences.
+7. Use simulation and theoretical approaches to perform correlation and regression analysis and interpret the results.
+
 
 ## Institutional Student Learning Outcomes
 
@@ -27,7 +28,8 @@ Students who successfully complete the course will be able to:
 
 ## Instructor Contact & Office Hours
 * **Office:** Washington 114 | **Phone:** 845-431-8554
-* **Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu)
+* **Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu)(email is the best way to contact me).
+I strive to respond to emails promptly, but please note that I may wait to respond. If you have not heard from me within 24 hours, please follow up with a reminder.
 
 ### Instructor Office Hours (for help, tutoring, questions, etc)
 I am available by appointment for both online and in-person meetings during office hours. To schedule a meeting, please visit **Brightspace**, navigate to the **“Getting Started”** section, and click the **“Office Hours Appointment”** link under Student Resources. You’ll also find the Zoom link for online appointments. 
@@ -68,12 +70,9 @@ You will be required to use Brightspace throughout the semester. Readings, video
 
 ## Required Course Materials
 
-* **Textbook:** OER materials (electronic). Printed copies at DCC Bookstore.
-* **Technology:** Microsoft Office (Free for DCC). 
-::: {.callout-important}
-## Chromebook Warning
-A Chromebook is **NOT SUFFICIENT** for this course as it cannot download the full version of Microsoft Excel.
-:::
+* **Textbook:** OER materials (electronic in rightspace). Printed copies at DCC Bookstore.
+* Online access to Brightspace: Go to [https://mylearning.suny.edu/d2l/home](https://mylearning.suny.edu/d2l/home)
+
 
 ## Grading & Assignments
 | Category | Weight |
@@ -88,6 +87,9 @@ A Chromebook is **NOT SUFFICIENT** for this course as it cannot download the ful
 | **Exam Corrections & Discussion** | 3% |
 | **Exit Tickets** (2 drops) | 1% |
 
+* See the tentative calendar of due dates for the assignments for the entire semester in Brightspace. The calendar also lists the topics covered in class each day of the semester.
+
+
 ## Tentative Final Exam Schedule
 | Section | Date | Time | Location |
 |:---|:---|:---|:---|
@@ -95,6 +97,31 @@ A Chromebook is **NOT SUFFICIENT** for this course as it cannot download the ful
 | **020** | Wednesday, 5/6/26 | 8:00 a.m. – 10:30 a.m. | Washington 248 |
 | **030** | Wednesday, 5/6/26 | 11:00 a.m. – 1:30 p.m. | Hudson Hall 226 |
 | **110** | Tuesday, 5/12/26 | 2:00 p.m. – 4:30 p.m. | Hudson Hall 506 |
+
+* You must go to MyDCC website to confirm the final schedule.
+
+## How assignments and exams work in this class
+
+
+• **Written Homework:** Students must also type all work and explanations for
+ments and write complete sentences in context. Students must also copy and paste screenshots from the Applet website into the written homework. It is essential to start as early as possible, put effort into these assignments, and seek help to complete each assignment fully and as accurately as possible.
+All written homework should be written clearly. Plagiarism is using others’ ideas and/or words without clearly acknowledging the source of that information (intentional or unintentional). Cutting and pasting from a website is plagiarism. Copying homework is plagiarism. Any paper or assignment suspected of plagiarism will receive a zero.
+• Computer Homework: Computer homework problems can be attempted repeatedly up to the due date. Many of the problems include video help or similar resources. After the due date passes, students can access those homework problems in “review mode,” which means that the problems can be practiced, but the scores won’t count in the gradebook.
+• Computer Quizzes: Computer quizzes contain a small selection of problems from the computer homework, and students only get one attempt at the quiz. The quizzes are timed, and no help features are available during the quizzes. Students must complete quizzes independently without accessing other resources or working with others.
+• In-class Quizzes: In-class quizzes will be written on paper and take place during the class period. The quizzes will assess concepts from the class or previous classes.
+• In-class Activities: Students will solve in-class activities during the class. These activities can be:
+Discussion-based activities (think-pair-share): Students individually reflect on a question or topic, discuss their thoughts with a partner, and finally share their ideas with the larger group.
+Problem-solving activities: Students analyze real-world scenarios and apply their knowledge to develop solutions (case studies). Also, students take on different roles and simulate real-life situations, such as a job interview or a negotiation (role-playing).
+Creative activities: short writing assignments (writing exercises). Students present their research, projects, or ideas to the class (presentations).
+Technology-based activities: online quizzes and polls, interactive simulations, and collaborative online activities using tools like Google Docs.
+• Exam corrections (Exam 1, Exam 2, and Exam 3): You should write on printer paper your own correction of each question of each chapter exam and submit a pdf file in the place posted in Brightspace the next class after you receive your exam grade paper.
+• Exam corrections discussion (Exam 1, Exam 2, and Exam 3): You must set an office hours appointment in the fol- lowing two weeks of the exam to discuss one exam correction (Exam 1, Exam 2, or Exam 3) with the instructor.
+• Exit tickets: At the end of each class, you should answer the questions asked in the exit ticket survey posted in Brightspace under the class topic section.
+• Chapter Exams: Exams in this class take place in the classroom and will be written on paper.
+• Cumulative Final Exam: This will be a written exam during the final class, held in the classroom.
+* You must go to MyDCC website to confirm the final schedule
+How assignments and exams work in this class:
+
 
 ## Absence and Late Work Policy
 
