@@ -1,66 +1,99 @@
 ---
-title: "MAT 118: Elementary Statistics (OER)"
-subtitle: "Spring 2026 | Dutchess Community College"
-author: "Instructor: Henry Mendoza Rivera"
+title: "Elementary Statistics (OER) - MAT 118"
+subtitle: "Spring 2026 Syllabus | Dutchess Community College"
+author: "Professor Henry Mendoza Rivera"
 ---
 
-## Course Information
-* **Prerequisites:** Placement level 2, ENG 101 placement, or HS GPA of 3.0 (83)[cite: 6].
-* **Course Description:** Basic statistical procedures including descriptive statistics, hypothesis testing, confidence intervals, and regression using simulation and theory-based approaches[cite: 10, 11].
-* **Learning Outcome:** Students will use quantitative reasoning to work with graphical and numerical models[cite: 14].
+## Course Description and Purpose
+Satisfies the mathematics requirement of the associate in Arts degree program. Basic statistical procedures are developed. Topics include descriptive statistics, hypothesis testing and confidence intervals and regression using both simulation and a theory-based approach. Technology will be used regularly throughout the course. 
 
-## Class Meeting Times
-| Section | Days | Time | Location |
-|---------|------|------|----------|
-| 010 | Mon/Wed | 11:00 a.m. – 12:15 p.m. | Hudson Hall 506 |
-| 020 | Mon/Wed | 9:00 a.m. – 10:15 a.m. | Washington 248 |
-| 030 | Mon/Wed | 12:30 p.m. – 1:45 p.m. | Hudson Hall 226 |
-| 110 | Tue/Thu | 2:00 p.m. – 3:15 p.m. | Hudson Hall 506 |
-[cite_start]: {tbl-colwidths="[15,30,30,25]"} [cite: 8]
+**Pre-requisites and/or co-requisites:**
+Placement level 2 (see DCC math placement table), OR ENG101 placement level or higher, OR High School GPA of 3.0 (83) or higher.
+
+## Course Learning Outcomes
+Students who successfully complete the course will be able to:
+* Calculate and use descriptive statistics (center, variation, outliers).
+* Understand probability and interpret p-values.
+* Use Central Limit Theorem and simulation for inferences.
+* Construct/interpret confidence intervals.
+* Use hypothesis testing to test claims.
+* Use technology for statistical simulations.
+* Perform correlation and regression analysis.
+
+## Institutional Student Learning Outcomes
+* **ISLO #4: Quantitative Reasoning.** Students will work with graphical, numerical, or symbolic models to solve problems and interpret results.
 
 ## Instructor Contact & Office Hours
-* **Office:** Washington 114 [cite: 25]
-* **Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu) (Best way to contact)[cite: 25].
-* **Office Hours:** Appointments can be made via Brightspace[cite: 30].Drop-ins are welcome at the Math & Science Center (Washington 126) during scheduled times[cite: 32, 33].
+* **Office:** Washington 114 | **Phone:** 845-431-8554
+* **Email:** [henry.mendozarivera@sunydutchess.edu](mailto:henry.mendozarivera@sunydutchess.edu)
 
-## Required Materials
-* **Textbook:** This is an **OER course**.Materials are free for electronic use via Brightspace[cite: 52].
-* **Technology:** Microsoft Excel is required.**A Chromebook is NOT sufficient** as it cannot support the necessary Excel features[cite: 56, 57].
-* **Brightspace:** All readings, videos, and assignments are hosted at [mylearning.suny.edu](https://mylearning.suny.edu/d2l/home)[cite: 49, 50].
+## Course Access (Brightspace)
+To access the reading and videos for the course:
+You will be required to use Brightspace throughout the semester. Readings, videos, assignments, and tests will be found in Brightspace and you will turn in work through Brightspace.
+**Access Link:** [https://mylearning.suny.edu/d2l/home](https://mylearning.suny.edu/d2l/home)
 
-## Grading Policy
-| Assignment | Percentage |
-|------------|------------|
-| Exams (3 Units) | 45% (15% each) |
-| Cumulative Final Exam | 15% |
-| Computer Homework | 10% |
-| Written Homework | 8% |
-| Quizzes (In-class & Computer) | 13% |
-| Activities & Exit Tickets | 9% |
-[cite_start][cite: 63]
-
+## Required Course Materials
+* **Textbook:** OER materials (electronic). Printed copies at DCC Bookstore.
+* **Technology:** Microsoft Office (Free for DCC). 
 ::: {.callout-important}
-## Late Work Policy
-[cite_start]Computer and Written Homework are **NEVER** accepted late for any reason[cite: 97, 105].To account for life circumstances, the lowest grades for several categories (homework, quizzes) are dropped at the end of the semester[cite: 98, 102, 106].
+## Chromebook Warning
+A Chromebook is **NOT SUFFICIENT** for this course as it cannot download the full version of Microsoft Excel.
 :::
 
-## Academic Policies
-### Academic Integrity
-[cite_start]Academic dishonesty (cheating, plagiarism, unauthorized AI use) will result in a 0 for the assignment and will be reported to the college[cite: 131, 132, 227].A second offense results in a failing grade for the course[cite: 228].
+## Grading & Assignments
+| Category | Weight |
+|:---|:---|
+| **Exams** (Exam 1, 2, and 3) | 45% (15% each) |
+| **Cumulative Final Exam** | 15% |
+| **Computer Homework** (21 assignments, 2 drops) | 10% |
+| **Written Homework** (8 assignments, 1 drop) | 8% |
+| **In-class Quizzes** (4 quizzes, 1 drop) | 8% |
+| **Computer Quizzes** (22 quizzes, 2 drops) | 5% |
+| **In-class Activities** (5 activities, 1 drop) | 5% |
+| **Exam Corrections & Discussion** | 3% |
+| **Exit Tickets** (2 drops) | 1% |
 
-### AI Policy
-[cite_start]Students must not use AI to generate material for any assignment unless explicitly instructed to do so[cite: 251].
+## Tentative Final Exam Schedule
+| Section | Date | Time | Location |
+|:---|:---|:---|:---|
+| **010** | Monday, 5/11/26 | 11:00 a.m. – 1:30 p.m. | Hudson Hall 506 |
+| **020** | Wednesday, 5/6/26 | 8:00 a.m. – 10:30 a.m. | Washington 248 |
+| **030** | Wednesday, 5/6/26 | 11:00 a.m. – 1:30 p.m. | Hudson Hall 226 |
+| **110** | Tuesday, 5/12/26 | 2:00 p.m. – 4:30 p.m. | Hudson Hall 506 |
 
-### Academic Accommodations
-[cite_start]Students with documented disabilities must register with the **Office of Accommodative Services (OAS)** in Orcutt Student Services Building, Room 103[cite: 189, 193].
+## Absence and Late Work Policy
+* **Computer Work:** NEVER accepted late. Two drops provided.
+* **Written Homework:** NEVER accepted late. One drop provided.
+* **Exams/Quizzes:** Email instructor **on or before** the day of. Makeup within 48 hours.
 
----
-[cite_start]*For the full tentative schedule and exam dates, please refer to the calendar posted on Brightspace.* [cite: 185]
+## Academic Dishonesty & Integrity
+The College regards academic dishonesty in any form as a breach of academic ethics. This includes cheating, plagiarism, and unauthorized AI usage. Violation results in a zero; a second offense results in an F for the course.
 
-## Student Support & Wellbeing
+## Study Time & Conduct
+You are expected to spend at least **nine hours a week** studying. Read actively, master formulas, and arrive to class on time. Arrange personal business outside of class hours.
 
-### Starfish
-Starfish is used to connect you to faculty and support services.Please check your DCC email and log into Starfish daily for feedback[cite: 233, 234, 236].
+## Tentative Course Outline Schedule
+| Chapter | Topic |
+|:---|:---|
+| **01** | Introduction to Statistics and Simulation |
+| **02** | Introduction to Hypothesis Testing |
+| **03** | Theory-Based Stats and Comparing Two Parameters |
+| **04** | Confidence Intervals |
+| **05** | Correlation and Regression |
 
-### Health and Wellbeing
-[cite_start]The DCC Counseling Center provides short-term individual and group counseling to help you achieve your goals[cite: 242].If you or someone you know is in crisis, call or text the **988 Suicide & Crisis Lifeline** at **988**[cite: 245].
+## Academic Accommodations & Title IX
+* **OAS:** Register with the Office of Accommodative Services (Room 103) at (845) 431-8055.
+* **Title IX:** Reports of sexual harassment or misconduct: [TitleIX@sunydutchess.edu](mailto:TitleIX@sunydutchess.edu).
+
+## Starfish
+Starfish connects students to faculty and support services. Please check your **myDCC email** and log into **Starfish daily**. 
+
+## Statement Regarding Health and Wellbeing
+**YOUR WELLBEING MATTERS**
+
+The DCC Counseling Center provides individual/group counseling and wellness workshops to help you achieve your mental health goals.
+* **Counseling Center:** [DCC Counseling Services](https://www.sunydutchess.edu/around-campus/student-services/counseling/)
+* **988 Suicide & Crisis Lifeline:** Call or text **988** for 24-hour support.
+
+## AI Policy
+AI is an emerging technology. It is inaccurate, so students must not use AI to try and ”fact-find” unless they follow up with their own legitimate research. Students in this course must not use AI in any way to generate material for any assignment unless explicitly instructed by the teacher to do so.
