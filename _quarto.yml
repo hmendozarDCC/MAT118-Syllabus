@@ -1,17 +1,23 @@
 project:
   type: website
   output-dir: docs
-  # This ensures the images folder is copied to the docs folder
   resources: 
     - images/
     - .nojekyll
+    - index.pdf # This ensures the PDF is moved to the docs folder
 
 website:
   title: "MAT 118: Statistics"
-  # Updated path to point to the images folder
   logo: images/logo.png
   logo-alt: "DCC Logo"
   
+  # This adds the download icon to the top right of your site
+  navbar:
+    right:
+      - icon: file-pdf
+        text: "Download PDF"
+        href: index.pdf
+
   sidebar:
     style: "docked"
     search: true
@@ -44,7 +50,7 @@ website:
             text: "Tutoring & Help"
 
 format:
-  html:
+  html: 
     theme: 
       light: cosmo
       dark: cyborg
@@ -53,3 +59,9 @@ format:
     smooth-scroll: true
     lang: en
     fontsize: 1.1em
+  # This section tells Quarto how to build the PDF
+  pdf:
+    output-file: "index.pdf"
+    toc: true
+    number-sections: false
+    colorlinks: true
