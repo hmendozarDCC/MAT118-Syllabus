@@ -12,6 +12,7 @@ Placement level 2 (see DCC math placement table), OR ENG101 placement level or h
 
 ## Course Learning Outcomes
 Students who successfully complete the course will be able to:
+
 * Calculate and use descriptive statistics (center, variation, outliers).
 * Understand probability and interpret p-values.
 * Use Central Limit Theorem and simulation for inferences.
