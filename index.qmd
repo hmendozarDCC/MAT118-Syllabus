@@ -22,6 +22,7 @@ Students who successfully complete the course will be able to:
 * Perform correlation and regression analysis.
 
 ## Institutional Student Learning Outcomes
+
 * **ISLO #4: Quantitative Reasoning.** Students will work with graphical, numerical, or symbolic models to solve problems and interpret results.
 
 ## Instructor Contact & Office Hours
@@ -47,6 +48,7 @@ If the available times don’t suit you, please message or email me to arrange a
 
 ### Purpose of Office Hours
 Office hours are intended to provide a time for students to:
+
 * **Clarify concepts:** Discuss unclear points from lectures or readings.
 * **Get feedback:** Discuss homework assignments or projects and receive feedback on progress.
 * **Explore ideas:** Engage in deeper discussions about course topics.
@@ -54,6 +56,7 @@ Office hours are intended to provide a time for students to:
 
 ### How to Prepare
 To make the most of office hours, students are encouraged to:
+
 * **Come prepared:** Review class materials and attempt homework assignments before visiting.
 * **Identify specific questions:** Have clear questions or areas of confusion ready to discuss.
 * **Communicate challenges:** If you are struggling, please let me know. We can work together to find effective solutions and support resources.
@@ -64,6 +67,7 @@ You will be required to use Brightspace throughout the semester. Readings, video
 **Access Link:** [https://mylearning.suny.edu/d2l/home](https://mylearning.suny.edu/d2l/home)
 
 ## Required Course Materials
+
 * **Textbook:** OER materials (electronic). Printed copies at DCC Bookstore.
 * **Technology:** Microsoft Office (Free for DCC). 
 ::: {.callout-important}
@@ -93,6 +97,7 @@ A Chromebook is **NOT SUFFICIENT** for this course as it cannot download the ful
 | **110** | Tuesday, 5/12/26 | 2:00 p.m. – 4:30 p.m. | Hudson Hall 506 |
 
 ## Absence and Late Work Policy
+
 * **Computer Work:** NEVER accepted late. Two drops provided.
 * **Written Homework:** NEVER accepted late. One drop provided.
 * **Exams/Quizzes:** Email instructor **on or before** the day of. Makeup within 48 hours.
@@ -113,6 +118,7 @@ You are expected to spend at least **nine hours a week** studying. Read actively
 | **05** | Correlation and Regression |
 
 ## Academic Accommodations & Title IX
+
 * **OAS:** Register with the Office of Accommodative Services (Room 103) at (845) 431-8055.
 * **Title IX:** Reports of sexual harassment or misconduct: [TitleIX@sunydutchess.edu](mailto:TitleIX@sunydutchess.edu).
 
