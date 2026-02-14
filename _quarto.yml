@@ -8,8 +8,16 @@ project:
 
 website:
   title: "MAT 118: Statistics"
-  logo: images/logo.png
-  logo-alt: "DCC Logo"
+  
+  # Moved logo here for better compatibility
+  navbar:
+    logo: "images/logo.png"
+    logo-alt: "DCC Logo"
+    right:
+      - icon: file-pdf
+        text: "Download PDF"
+        href: index.pdf
+
   sidebar:
     style: "docked"
     search: true
