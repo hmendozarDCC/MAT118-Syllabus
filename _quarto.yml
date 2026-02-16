@@ -61,7 +61,7 @@ format:
     lang: en
     fontsize: 1.1em
     mainfont: 'Segoe UI, Roboto, Helvetica, Arial, sans-serif'
-    linkcolor: "#006838"
+    linkcolor: "blue"
   pdf:
     output-file: "index.pdf"
     toc: false          # Set to false to remove the "Table of Contents"
