@@ -9,7 +9,9 @@ resources:
 
 website:
   title: "MAT 118: Statistics"
+  background: "#006838"  # Forces the Green Bar
   navbar:
+    background: primary  # Links the bar to the DCC Green
     logo: "/images/dcc-logo.png"
     logo-alt: "DCC Logo"
     right:
