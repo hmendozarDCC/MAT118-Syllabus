@@ -50,16 +50,15 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] # We will create this 'theme.scss' file
+      light: cosmo
       dark: cyborg
     toc: true
-    # Add this for an instant color boost:
-    mainfont: "Segoe UI", Roboto, Helvetica, Arial, sans-serif
-    linkcolor: "#006838" # DCC Green
     toc-location: right
     smooth-scroll: true
     lang: en
     fontsize: 1.1em
+    mainfont: 'Segoe UI, Roboto, Helvetica, Arial, sans-serif'
+    linkcolor: "#006838"
   pdf:
     output-file: "index.pdf"
     toc: true
