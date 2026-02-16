@@ -15,7 +15,7 @@ website:
     right:
       - icon: file-pdf
         text: "Download PDF"
-        href: index.pdf
+        href: "index.pdf"
   sidebar:
     style: "docked"
     search: true
