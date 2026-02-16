@@ -9,10 +9,10 @@ resources:
 
 website:
   title: "MAT 118: Statistics"
-  background: "#006838"  # Forces the Green Bar
+  # REMOVED the background line from here
   navbar:
-    background: primary  # Links the bar to the DCC Green
-    type: dark                 # <--- This forces text to be white so it's readable
+    background: "#006838"  # Set the Green here
+    type: dark             # Forces white text on the green bar
     logo: "/images/dcc-logo.png"
     logo-alt: "DCC Logo"
     right:
@@ -61,18 +61,18 @@ format:
     lang: en
     fontsize: 1.1em
     mainfont: 'Segoe UI, Roboto, Helvetica, Arial, sans-serif'
-    linkcolor: "blue"
+    linkcolor: "blue"  # Standard blue links as requested
   pdf:
     output-file: "index.pdf"
-    toc: false          # Set to false to remove the "Table of Contents"
+    toc: false
     number-sections: false
     colorlinks: true
     geometry:
-      - margin=1in      # Clean 1-inch margins
+      - margin=1in
     include-in-header:
       text: |
         \usepackage{titlesec}
         \usepackage{xcolor}
         \definecolor{dccgreen}{HTML}{006838}
         \titleformat{\section}{\large\bfseries\color{dccgreen}}{}{0em}{}[\titlerule]
-        \pagenumbering{gobble} # Removes page numbers if it's a short syllabus
+        \pagenumbering{gobble}
