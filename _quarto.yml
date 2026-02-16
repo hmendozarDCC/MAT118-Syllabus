@@ -11,8 +11,8 @@ website:
   title: "MAT 118: Statistics"
   # REMOVED the background line from here
   navbar:
-    background: "#006838"  # Set the Green here
-    type: dark             # Forces white text on the green bar
+    background: "#F5E1A4"  # DCC Buff Color
+    type: light            # Forces black text (better for light backgrounds)
     logo: "/images/dcc-logo.png"
     logo-alt: "DCC Logo"
     right:
