@@ -10,7 +10,7 @@ resources:
 website:
   title: "MAT 118: Statistics"
   navbar:
-    logo: "images/dcc-logo.png"
+    logo: "/images/dcc-logo.png"
     logo-alt: "DCC Logo"
     right:
       - icon: file-pdf
