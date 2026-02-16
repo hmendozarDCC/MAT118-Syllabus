@@ -1,15 +1,14 @@
 project:
   type: website
   output-dir: docs
-  resources: 
-    - images/
-    - .nojekyll
-    - index.pdf
+
+resources:
+  - images/
+  - .nojekyll
+  - index.pdf
 
 website:
   title: "MAT 118: Statistics"
-  
-  # Moved logo here for better compatibility
   navbar:
     logo: "images/logo.png"
     logo-alt: "DCC Logo"
@@ -17,7 +16,6 @@ website:
       - icon: file-pdf
         text: "Download PDF"
         href: index.pdf
-
   sidebar:
     style: "docked"
     search: true
@@ -50,8 +48,8 @@ website:
             text: "Tutoring & Help"
 
 format:
-  html: 
-    theme: 
+  html:
+    theme:
       light: cosmo
       dark: cyborg
     toc: true
