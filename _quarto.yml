@@ -61,6 +61,15 @@ format:
     linkcolor: "#006838"
   pdf:
     output-file: "index.pdf"
-    toc: true
+    toc: false          # Set to false to remove the "Table of Contents"
     number-sections: false
     colorlinks: true
+    geometry:
+      - margin=1in      # Clean 1-inch margins
+    include-in-header:
+      text: |
+        \usepackage{titlesec}
+        \usepackage{xcolor}
+        \definecolor{dccgreen}{HTML}{006838}
+        \titleformat{\section}{\large\bfseries\color{dccgreen}}{}{0em}{}[\titlerule]
+        \pagenumbering{gobble} # Removes page numbers if it's a short syllabus
