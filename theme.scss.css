@@ -1,0 +1,9 @@
+/*-- scss:defaults --*/
+$navbar-bg: #006838; /* DCC Green */
+$navbar-fg: #ffffff; /* White text for the menu */
+$primary: #006838;
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 3px solid #ffc72c; /* Optional: DCC Gold accent line */
+}
