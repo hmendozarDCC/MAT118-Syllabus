@@ -12,6 +12,7 @@ website:
   background: "#006838"  # Forces the Green Bar
   navbar:
     background: primary  # Links the bar to the DCC Green
+    type: dark                 # <--- This forces text to be white so it's readable
     logo: "/images/dcc-logo.png"
     logo-alt: "DCC Logo"
     right:
