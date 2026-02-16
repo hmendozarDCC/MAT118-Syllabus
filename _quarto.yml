@@ -19,7 +19,6 @@ website:
       - icon: file-pdf
         text: "Download PDF"
         href: "index.pdf"
-        target: _blank
   sidebar:
     style: "docked"
     search: true
