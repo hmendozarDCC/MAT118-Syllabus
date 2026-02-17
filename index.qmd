@@ -89,9 +89,8 @@ You will be required to use Brightspace throughout the semester. Readings, video
 | **Exam Corrections & Discussion** | 3% |
 | **Exit Tickets** (2 drops) | 1% |
 
-::: {.column-screen .bg-primary .text-white .p-5 .text-center}
-See the tentative calendar of due dates for the assignments for the entire semester in Brightspace. The calendar also lists the topics covered in class each day of the semester.
-:::
+
+* See the tentative calendar of due dates for the assignments for the entire semester in Brightspace. The calendar also lists the topics covered in class each day of the semester.
 
 
 ## Tentative Final Exam Schedule
