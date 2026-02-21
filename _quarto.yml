@@ -15,6 +15,7 @@ website:
     type: light            # Forces black text (better for light backgrounds)
     logo: "images/dcc-logo.png"
     logo-alt: "DCC Logo"
+    background: "#002147"
     right:
       - icon: file-pdf
         text: "Download PDF"
