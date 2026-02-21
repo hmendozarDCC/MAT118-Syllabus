@@ -11,11 +11,9 @@ website:
   title: "MAT 118: Statistics"
   # REMOVED the background line from here
   navbar:
-    background: "#F5E1A4"  # DCC Buff Color
-    type: light            # Forces black text (better for light backgrounds)
+    background: "#002147"  # DCC blue
     logo: "images/dcc-logo.png"
     logo-alt: "DCC Logo"
-    background: "#002147"
     right:
       - icon: file-pdf
         text: "Download PDF"
